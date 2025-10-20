@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trill\\source\\repos\\ToDoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A63AD2C8-2A5A-40BE-BE80-40EB3403C4A5}|ToDoList\\ToDoList.vcxproj|C:\\Users\\trill\\source\\repos\\ToDoList\\ToDoList\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A63AD2C8-2A5A-40BE-BE80-40EB3403C4A5}|ToDoList\\ToDoList.vcxproj|solutionrelative:ToDoList\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\trill\\source\\repos\\ToDoList\\ToDoList\\main.cpp",
+              "RelativeDocumentMoniker": "ToDoList\\main.cpp",
+              "ToolTip": "C:\\Users\\trill\\source\\repos\\ToDoList\\ToDoList\\main.cpp",
+              "RelativeToolTip": "ToDoList\\main.cpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-20T23:23:27.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
